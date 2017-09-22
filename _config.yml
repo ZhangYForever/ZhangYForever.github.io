@@ -3,7 +3,7 @@ title: Z.y Blog
 SEOTitle: 张愿的博客 | Z.y Blog
 header-img: img/post-bg-desk.jpg
 email: 1475661200@qq.com
-description: "Every failure is leading towards success."
+description: "The unexamined life is not worth living."
 keyword: "Z.y, Z.y Blog, 张愿的博客"
 url: "http://ZhangYForever.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/ZhangYForever/ZhangYForever.github.io.git" # yo
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "A strong man will struggle with the storms of fate!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -81,7 +81,7 @@ ga_domain: auto
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
