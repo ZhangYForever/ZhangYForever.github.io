@@ -19,7 +19,7 @@ CLASSPATH环境变量，变量值应该设置为
 
     .;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar
      
-注意前面的".;"一句点一分号
+注意前面的".;"一句点一分号。
 
 # JAVA_HOME环境变量
 JAVA_HOME环境变量，变量值应该设置为你安装的JDK的路径，在这路径下你应该能够找到bin、lib等目录。
@@ -35,7 +35,7 @@ JDK的绝对路径。如果采取的默认安装目录，则设置如下：
 
     C:\Program Files\Java\jdk-9\bin;C:\Program Files\Java\jdk-9\jre\bin;
     
-需要注意两个冒号的位置，不能丢
+需要注意两个冒号的位置，不能丢。
 
 # 检查环境变量配置是否正确
 Win+R键打开运行面板，输入cmd，在命令窗口输入java，如果提示“不是内部或外部命令，也不是可运行的程序或批处理文件”，就说明配置错误。
