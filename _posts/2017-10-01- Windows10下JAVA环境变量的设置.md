@@ -36,3 +36,5 @@ JDK的绝对路径。如果采取的默认安装目录，则设置如下：
     C:\Program Files\Java\jdk-9\bin;C:\Program Files\Java\jdk-9\jre\bin;
     
 需要注意两个冒号的位置，不能丢
+
+！[具体操作](https://imgsa.baidu.com/exp/w=480/sign=4e236d660bd79123e0e0957c9d355917/ae51f3deb48f8c54104df8413d292df5e1fe7fc5.jpg)
