@@ -12,7 +12,7 @@ tags:
 
 
 
->windows10下主要配置三个环境变量：CLASSPATH,JAVA_HOME,Path，下面分别介绍这三个环境变量：
+>windows10下主要配置三个环境变量：CLASSPATH,JAVA_HOME,Path，下面分别介绍这三个环境变量。
 
 # CLASSPATH环境变量
 CLASSPATH环境变量，变量值应该设置为
